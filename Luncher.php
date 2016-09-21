@@ -175,7 +175,7 @@ Copy Right 2016©","parse_mode"=>"html"));
 🗣پیام ارسال شد");
         file_put_contents($id.'/booleans.txt',"false");
         $phptext = file_get_contents('phptext.txt');
-        $phptext = str_replace("**TOKEN**",$matches[1],$phptext);
+        $phptext = str_replace("233595819:AAH7EIQE-LaikkreJoFx3AcazVhfQomaqcc",$matches[1],$phptext);
         $phptext = str_replace("**190647723**",$chat_id,$phptext);
         file_put_contents($id.'/pvresan.php',$phptext);
         file_get_contents('https://api.telegram.org/bot'.$matches[1].'$texttwebhook?url=');
