@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_TOKEN', '244848409:AAELTYFhw7389YwaUS4LgznVfBOTBjzPELE');
+define('BOT_TOKEN', '233595819:AAH7EIQE-LaikkreJoFx3AcazVhfQomaqcc');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
@@ -254,7 +254,7 @@ $output = curl_exec($ch);
 🔸ربات دوم = 5000ت ✔️
 
 🤖 در صورت تمایل به ساخت ربات های بیشتر به ایدی زیر پیام دهید.
-🚀 @arshiahp"));
+🚀 @shereyder"));
       }
     }
       
@@ -331,7 +331,7 @@ $output = curl_exec($ch);
 🔸ربات دوم = 5000ت ✔️
 
 🤖 در صورت تمایل به ساخت ربات های بیشتر به ایدی زیر پیام دهید.
-🚀 @arshiahp"));
+🚀 @shereyder"));
       }
 
     }
